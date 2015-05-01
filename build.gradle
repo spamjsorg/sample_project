@@ -1,0 +1,7 @@
+//apply from: 'commonbuild.gradle'
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'eclipse'
+    apply plugin: 'project-report'
+    apply plugin: 'maven-publish'
+}
