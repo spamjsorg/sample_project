@@ -1,9 +1,9 @@
 [submodule "utils"]
 	path = utils
-	url = https://gitlab.com/mangolite/utils.git
+	url = https://github.com/spamjsorg/utils.git
 [submodule "webutils"]
 	path = webutils
-	url = https://gitlab.com/mangolite/webutils.git
+	url = https://github.com/spamjsorg/mangolite.git
 [submodule "sample_web"]
 	path = sample_web
-	url = https://gitlab.com/mangolite/sample_web.git
+	url = https://github.com/spamjsorg/sample_web.git
